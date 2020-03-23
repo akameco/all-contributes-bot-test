@@ -12,7 +12,8 @@
       "profile": "http://akameco.github.io",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "infra"
       ]
     }
   ],
